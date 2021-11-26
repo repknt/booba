@@ -1,0 +1,6 @@
+booba_cat = {
+	icon = booba
+	allowed = {
+		always = yes
+	}
+}
